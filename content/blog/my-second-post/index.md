@@ -8,6 +8,9 @@ Wow! I love Gatsby so much already.
 
 ## Question:
 ### “Why do I imagine myself to be a successful innovator of 2021?”
+
+![image](https://user-images.githubusercontent.com/58622363/126082067-d701d4e8-5e44-4f19-bd92-c89d0d50be6f.png)
+
 ### Answer :
 
 > As one of the great leader said, Innovation is the one factor that distinguishes between a leader and the followers.
@@ -68,3 +71,6 @@ Wow! I love Gatsby so much already.
 > At last for being a successfull innovator I need to be optimistic,
 > positive and motivated after having a clear vision and always move
 > towards goal even after setbacks.
+
+![image](https://user-images.githubusercontent.com/58622363/126082103-812b9258-6e20-4c5a-9618-e6cabcc492f0.png)
+
