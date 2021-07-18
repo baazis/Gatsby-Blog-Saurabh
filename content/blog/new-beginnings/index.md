@@ -1,108 +1,116 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: 3- Blog Post - SWOT Analysis
+date: "2021-07-19T23:46:37.121Z"
+description: This is my Swot Analysis- Strength, Weakness, Opportunities, Threats
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+### SWOT analysis is a strategic planning technique used to help a person or organization identify strengths, weaknesses, opportunities, and threats related to personal planning or with bussiness aspects.
 
-## On deer horse aboard tritely yikes and much
+## <u>Strengths</u> :
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+#### What do you do well? What unique resources can you draw on? What do others see as your strengths?
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+> Good Academics – I’ve always worked hard to improve my academics since my school and manage to get good grades.
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+> Fast learner- I think of myself as a fast learner, I can easily grasp important concepts and new ideas and new things.
 
-### Overlaid the jeepers uselessly much excluding
+> Determined – I think of myself as a determined as I’m always ready to work to achieve my goal.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+> Liveliness- I’m more of a practical person with thought of living
+> in present and enjoying everything.
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+> Healthy/Fitness- My father always said healthy mind resides in
+> a healthy body and I’m also a follower of that.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+> Trustworthy ,Caring & Helpful – My fellows think of me as
+> trustworthy person and they find it easy to confide in me and I
+> am always ready to listen to them and help them whenever
+> possible.
 
-### According a funnily until pre-set or arrogant well cheerful
+> Sense of Responsibility- My parents think of me as a
+> responsible person towards my duty as I try to finish my work with determination.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+> Social Adaptability - My peers find me a cheerful person and that’s why I can easily adapt new situations.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+> Whenever given chance I’m ready to contribute to the society and do good.
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+> I think myself as an optimistic person as I always think positive of my outcomes and ready to move forward.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+> I try to learn new and different things for eg nowadays I’m trying to learn designing.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+## <u>Weakness</u> :
 
-#### Silent delightfully including because before one up barring chameleon
+#### What could you improve? Where do you have fewer resources than others? What are others likely to see as weaknesses?
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+> I sometimes can’t deny others which results in borrowing up a lot of work at same time which is not manageable.
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+> I think am an akratic person as I keep my work till last and finish it before last time. I need to correct this and do
+> my work faster and in the extra time do some more useful work.
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+> Get distracted easily by various forms of entertainment today mostly Internet media...
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+> Sometimes I think I’m not a good plan follower, I make plans but not able to follow its routine.
 
-###### Slapped cozy a that lightheartedly and far
+> Get nervous at some critical Inteviews and lsot some opportuitues
+> in past because of less confidence but I’m really working hard to
+> improve it.
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+> Poor communication skills as sometimes I’m not able to preesent
+> my thoughts to my peers or family. But I think of changing this
+> and be open to my close ones.
+
+> I’m not a moral person but I try my best to do the right thing.
+> Not so courageous but always willing to take a step.
+
+## <u>Opportunities</u> :
+
+#### What opportunities are open to you? What trends could you take advantage of? How can you turn your strengths into opportunities?
+
+> A lot of opportunities opened their door to us as we are
+> staying home we can learn new things, try different ideas
+> etc.
+
+> Due to pandemic, we get new ideas to innovate new things
+> and using my field I can make my ideas useful.
+
+> Our college provided us with best teachers, materials,
+> environment, friends etc which are very benefitting for us.
+
+> Fast growth in technical advancement leads to follow new
+> great inovations which will be very useful.
+
+> I am learning computers science, coding, participating on
+> hackathons, competitions which is going to be very helpful
+> for my overall improvement.
+
+> Being a good learner I am trying to work with my team to
+> innovate new ideas and work on them.
+
+> I am taking some time out of my studies to work on myself
+> too.
+
+> I’m learning new things which will definitely lead me to
+> recognize opportunities and catch them with both hands.
+
+## <u>Threats</u> :
+
+#### What threats could harm you? What is your competition doing? What threats do your weaknesses expose you to?
+
+> Being trying to experiment new things means I’m not able
+> to focus and be expert in one subject which leads me to
+> become master of none.
+
+> Being delaying my work leads to wastage of time and
+> rushing of work in last hours.
+
+> Not having good communication skills is causing me
+> problems as I’m not able to connect to more people.
+
+> I make timetables but not able to follow for a long time
+> but i’m working on improving it.
+
+> Getting distracted easily leading to not manage my
+> timetable and leads to do work in unprioritized manner
+
+
+##Thanks For Visiting!!!

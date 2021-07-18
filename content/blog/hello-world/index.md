@@ -1,231 +1,79 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: 1- Hello World from Saurabh
+date: "2021-07-17T23:46:37.121Z"
+description: "My Github Readme"
 ---
 
-This is my first post on my new fake blog! How exciting!
+# Hello Zen, I am Saurabh Singh, 19 years 11 months. 
 
-I'm sure I'll write a lot more interesting things in the future.
+# Welcome to my Github profile !
+STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+ I am a <strong>passionate </strong> learner. I love to live in present and finish one task at a time. Being a keen learner, I want to do something where I am able to expand my learnings, knowledge and skills and excel in various fields. To secure an opportunity where I can use my skills for making a positive contribution. To Enjoy, Work, Learn & Grow.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+### Portfolio : https://sites.google.com/view/saurabh-singh/
+### Resume :    https://drive.google.com/file/d/1URyfaH2p75Zcdzc1cEfs7dE1apHlS30l/view
 
-![Chinese Salty Egg](./salty_egg.jpg)
+## ABOUT ME
 
-You can also write code blocks here!
+{
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
 
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+	Age	         :   date.now() - 2001;
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
+   	Motto	         :   <strong> Live in Present </strong>
 
-This is a paragraph.
+   	Me		 :   [ Passionate, Focused, Hard Working, Responsible, Fast Learner ]
 
-    This is a paragraph.
+	College	         :   Vellore Institute of Technology, Vellore
 
-# Header 1
+}
 
-## Header 2
+- :computer:  I’m currently working on developing my skills in web developing and coding.
+- :robot: I’m currently learning Solidity programming fror developing smart contracts used in blockchain technology.
+- 👯 UI/UX Designer , Full Stack developer, Web developer etc
 
-    Header 1
-    ========
+##  Languages that I speak
 
-    Header 2
-    --------
+* Coding : C++, C, Python
+* Front-end development :  HTML, CSS, Boostrap, Javascript, React, Figma
+* Backend development : Flask, MySQL, SQLite
+* Blockchain : Solidity 
 
-# Header 1
 
-## Header 2
+ <img src = 'https://image.flaticon.com/icons/png/512/919/919841.png' height='40'/> <img src = 'https://image.flaticon.com/icons/png/512/919/919839.png' height='40'/> <img src = 'https://image.flaticon.com/icons/png/512/919/919852.png' height='40'/>   <img src = 'https://as1.ftcdn.net/jpg/03/04/97/12/500_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg' height='40'/>
+ <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='40'/> 
+    <img src = 'https://image.flaticon.com/icons/png/512/288/288882.png' width='40'/> <img src = 'https://image.flaticon.com/icons/png/512/2772/2772128.png' width='40'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png' width='30'/>
 
-### Header 3
 
-#### Header 4
 
-##### Header 5
+##  Most Languages used
 
-###### Header 6
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baazis&layout=compact)](https://github.com/baazis/github-readme-stats)
 
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
+## MY GIT STATS
 
-# Header 1
+<img src="https://github-readme-stats.vercel.app/api?username=baazis&&show_icons=true&count_private=true&theme=radical"/>
 
-## Header 2
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=baazis&theme=radical"/>
 
-### Header 3
+## Connect with me on
 
-#### Header 4
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" href="https://www.linkedin.com/in/saurabh-singh-573361199//" width='30' height='30' ><img src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" href="https://www.instagram.com/s_baazi/" width='30' height='30'>  <img src="https://image.flaticon.com/icons/png/512/733/733579.png" href="https://twitter.com/ISAACOL10082001" width='30' height='30'>  
 
-##### Header 5
+## My Favourite Quotes
 
-###### Header 6
+> Persistence is key to everything. I just need one win, just one win to change the focus.
 
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
+> I am not giving up until I get that one win.
 
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> There is lot of negativity spreading around us, I have to make sure that it doesn't effect my beautiful heart. 
 
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> Always think positively. Everything happens for a reason.
 
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
+> Daily meditation will definitely make my mind focused.
 
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
+> Comparison is good only if I am doing with previous version of myself.
 
-- Red
-- Green
-- Blue
+> Enjoy, Work, Learn & Grow.
 
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
-
----
-
----
-
----
-
----
-
----
-
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://placehold.it/200x50 "Image Title")
-
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
