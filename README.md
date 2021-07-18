@@ -6,8 +6,7 @@
 </p>
 <h1 align="center">
   Gatsby's Saurabh's Blog
-  
-  Live Demo: saurabhblog.gatsbyjs.io
+  Live Demo: <a>saurabhblog.gatsbyjs.io</a>
 </h1>
 
 
