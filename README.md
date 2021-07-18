@@ -7,7 +7,8 @@
 <h1 align="center">
   Gatsby's Saurabh's Blog
   
-  Live Demo: ([saurabhblog.gatsbyjs.io](saurabhblog.gatsbyjs.io))
+  Live Demo: <a href="saurabhblog.gatsbyjs.io">saurabhblog.gatsbyjs.io</a>
+
 </h1>
 
 
