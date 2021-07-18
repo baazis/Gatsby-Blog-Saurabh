@@ -4,7 +4,7 @@ date: "2021-07-17T23:46:37.121Z"
 description: "My Github Readme"
 ---
 
-# Hello Zen, I am Saurabh Singh, 19 years 11 months. 
+# Hello Zen, I am Saurabh Singh, 19 years 11 months.  ![image](https://user-images.githubusercontent.com/58622363/126081941-9703d841-3cae-4f85-b047-cb81106c16c7.png)
 
 # Welcome to my Github profile !
 STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
@@ -29,8 +29,8 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 }
 
-- :computer:  I’m currently working on developing my skills in web developing and coding.
-- :robot: I’m currently learning Solidity programming fror developing smart contracts used in blockchain technology.
+-  I’m currently working on developing my skills in web developing and coding.
+-  I’m currently learning Solidity programming fror developing smart contracts used in blockchain technology.
 - 👯 UI/UX Designer , Full Stack developer, Web developer etc
 
 ##  Languages that I speak
@@ -61,6 +61,9 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" href="https://www.linkedin.com/in/saurabh-singh-573361199//" width='30' height='30' ><img src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" href="https://www.instagram.com/s_baazi/" width='30' height='30'>  <img src="https://image.flaticon.com/icons/png/512/733/733579.png" href="https://twitter.com/ISAACOL10082001" width='30' height='30'>  
 
+![image](https://user-images.githubusercontent.com/58622363/126081980-35e4b336-61b9-4fa9-abe1-a0231c39aaeb.png)
+
+
 ## My Favourite Quotes
 
 > Persistence is key to everything. I just need one win, just one win to change the focus.
@@ -76,4 +79,7 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 > Comparison is good only if I am doing with previous version of myself.
 
 > Enjoy, Work, Learn & Grow.
+
+
+
 
