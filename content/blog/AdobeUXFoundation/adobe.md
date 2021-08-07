@@ -1,7 +1,7 @@
 ---
 title: 5- Adobe UX Foundation Journey NASSCOM
 date: "2021-08-07T23:46:37.121Z"
-description: "This is a NAsscom initiative course with ADOBE. This Adobe course "
+description: "This is a NAASCOM initiative course with ADOBE. This Adobe course "
 ---
 
 # Adobe-UX-Foundation-Learning-Journey
