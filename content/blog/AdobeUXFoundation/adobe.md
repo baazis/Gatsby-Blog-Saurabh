@@ -165,7 +165,17 @@ description: "This is a NAASCOM initiative course with ADOBE. This Adobe course 
   ### SSC NASSCOM ASSESSMENT- https://futureskillsprime.edcast.com/pathways/adobe-ux-foundation-ssc-nasscom-assessment-to
 
 
-
-    
+<a href="https://www.instagram.com/s_baazi/" target="_blank" >
+         <img alt="Insta" src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg"
+         width='30' height='30'>
+      </a>
+<a href="https://www.linkedin.com/in/saurabh-singh-573361199/" target="_blank" >
+         <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png"
+         width='30' height='30'>
+      </a>
+<a href="https://twitter.com/ISAACOL10082001/" target="_blank" >
+         <img alt="Twitter" src="https://image.flaticon.com/icons/png/512/733/733579.png"
+         width='30' height='30'>
+      </a>
 
 
