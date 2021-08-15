@@ -162,7 +162,7 @@ description: "This is a NAASCOM initiative course with ADOBE. This Adobe course 
 
   ### Course Link- https://futureskillsprime.edcast.com/journey/adobe-ux-foundation-learning-journey-this-free-of-cost
 
-  ### SSC NASSCOM ASSESSMENT- https://futureskillsprime.edcast.com/pathways/adobe-ux-foundation-ssc-nasscom-assessment-to
+  ### SSC NASSCOM ASSESSMENT Completed- https://futureskillsprime.edcast.com/pathways/adobe-ux-foundation-ssc-nasscom-assessment-to
 
 ## Contact Me:
 
