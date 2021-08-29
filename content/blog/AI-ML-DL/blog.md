@@ -1,8 +1,7 @@
-
 ---
-title: 5- Adobe UX Foundation Journey NASSCOM
-date: "2021-08-07T23:46:37.121Z"
-description: "This is a NAASCOM initiative course with ADOBE. This Adobe course "
+title: 6-  AI -ML-DEEP LEARNING
+date: "2021-08-29T23:46:37.121Z"
+description: "Artificial Intelligence & Machine Learning & Deep Learning"
 ---
 
 
@@ -10,7 +9,9 @@ description: "This is a NAASCOM initiative course with ADOBE. This Adobe course 
 
 ### Medium Blog-  https://medium.com/@suhas100809/ai-ml-deep-learning-b93851558d02
 
-Web apps have grown increasingly social and interactive over the last few years, with multimedia, comments, information and other features all occurring in real-time by tens of thousands of users on even a moderately successful website. But this has increased the chance for spammers to take advantage of this system by associating less savoury information with articles, posts, videos etc created by others to obtain more attention towards themselves. We have noticed in various Youtube videos, public Instagram and Facebook posts, that these spammers advertise their products by posting vague comments.
+Web apps have grown increasingly social and interactive over the last few years, with multimedia, comments, information and other features all occurring in real-time by tens of thousands of users on even a moderately successful website. 
+
+But this has increased the chance for spammers to take advantage of this system by associating less savoury information with articles, posts, videos etc created by others to obtain more attention towards themselves. We have noticed in various Youtube videos, public Instagram and Facebook posts, that these spammers advertise their products by posting vague comments.
 
 Older spam detection measures, such as a list of blocked words or prohibited terms, may simply be overcome, and advanced spam bots, which are constantly developing in their sophistication, are simply no match for them. But today, we can now use Machine Learning models that have been trained with a large amount of these types of data to detect such spam.
 
@@ -21,21 +22,24 @@ We will use Natural language processing (NLP), which is the art of interpreting 
 
 First, let’s review what Machine learning is, where Tensorflow.js fits in, and why we’ll utilise it with Javascript. We have heard a lot of concepts in this field i.e AI, deep learning, ML etc. We’ll explore one by one.
 
-## AI-
+# AI-
 
 Artificial intelligence (AI) is the science of making things smarter. Artificial intelligence may be described as human intelligence displayed by machines. However, this is a wide word. Presently, we’re working on systems for the other type of narrow AI. What does this imply?
 
 Narrow AI is a system that can accomplish one or a few things as well as or better than a human specialist at that activity. They are focused on one particular task.
-Text classification is an excellent example of this. As a web developer, we may have been requested to create a contact form where the user enters a message, the message is delivered to the firm, and someone chooses which sub-team the message should be passed to. 
-Well, with advances in technology, we can now train a system to automatically route the message to the correct team based on its content.
+Text classification is an excellent example of this. 
+
+As a web developer, we may have been requested to create a contact form where the user enters a message, the message is delivered to the firm, and someone chooses which sub-team the message should be passed to. Well, with advances in technology, we can now train a system to automatically route the message to the correct team based on its content.
 
 
-## ML-
+# ML-
 
 Machine learning (ML) is a subset of artificial intelligence (AI) that enables software programmes to grow increasingly effective at predicting outcomes without explicitly programming them to do so. Machine learning algorithms anticipate new output values by using past data as input.
 What is it about these machine learning systems that makes them so effective?
 
-The most important thing is that they can be re-trained with new data and reused again and again in various projects without modifying the source code. So let’s take an example, I develop a Machine learning model that detects cats and it was completed successfully. Now if my friends want a model which can detect dogs, they can then use the same code to recognise dogs without making any changes. They just have to provide a variety of dog training pictures, their information from here the ML model can learn from. And this type of technique is really effective and a significant departure from how we previously employed software.
+The most important thing is that they can be re-trained with new data and reused again and again in various projects without modifying the source code. So let’s take an example, I develop a Machine learning model that detects cats and it was completed successfully.
+
+Now if my friends want a model which can detect dogs, they can then use the same code to recognise dogs without making any changes. They just have to provide a variety of dog training pictures, their information from here the ML model can learn from. And this type of technique is really effective and a significant departure from how we previously employed software.
 
 In reality, using spam emails as an example, we may have utilised conditional criteria in the past to determine if a word was linked with spam. We would block or restrict the email if that was the case. Spammers, on the other hand, may get aware of this, slightly alter the term, make few changes and the system is broken.
 But now we can address this problem using machine learning.
@@ -54,7 +58,8 @@ Then there’s audio for things like speech recognition, which is how our smart 
 
 The faces on the left do not exist. In fact, a machine learning program has learned what the essence of a human face maybe and then it’s asked to generate new ones. If you are asked to draw the faces you can draw it too, an unknown face with your imagination as you have seen 1000s of faces till now. The same thing is going on with the model here except the computer’s really good at drawing.
 
-## Deep Learning-
+
+# Deep Learning-
 
 It’s a machine learning implementation approach that we recently learnt about. And this is only one of the numerous algorithms available for making the machine learning software function.
 Deep neural networks are simply coded structures that are built in layers and are roughly based on how we believe the human brain functions, essentially learning patterns of patterns.
