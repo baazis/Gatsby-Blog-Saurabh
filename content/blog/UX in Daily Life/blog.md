@@ -34,10 +34,11 @@ So UX of any product is made keeping in mind every group of people using whether
 
 The process by which design teams create products that give users with meaningful and relevant experiences is known as user experience design. This includes features of branding, design, usability, and function, as well as the full process of obtaining and integrating the product.
 
-    ##As Steve  Krug said:
+   ### As Steve  Krug said:
 
-    A person of average (or even below average) ability and experience can figure out how to use the thing to 
-    accomplish something without it being more trouble than it’s worth
+    A person of average (or even below average) ability and experience 
+    can figure out how to use the thing to accomplish something 
+    without it being more trouble than it’s worth
 
 ### Now as we discussed few things earlier we will try to classify them. We will discuss now 7 key elements of UX design in any criteria.
 
